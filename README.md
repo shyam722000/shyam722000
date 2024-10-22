@@ -1,12 +1,12 @@
 # Hi 👋
 
-## I’m Shyam Rirhul. I'm a Computer Science graduate trying to figure out life. 🤪
+## I’m Shyam Rithul. I'm a FrontEnd Developer. 🤪
 
 You can read more about my biography, experience, skills, education, and much more in the PDF attached below:
 
 <br>
 
-📜 <a href="./ShyamRIthulRS_Resume_2024 (1).pdf">My resume (pdf 129kb) </a> 📜
+📜 <a href="./ShyamRIthulRS_Resume_2024 (1).pdf">My resume (pdf 119kb) </a> 📜
 
 
 <br><br>
