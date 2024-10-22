@@ -6,7 +6,7 @@ You can read more about my biography, experience, skills, education, and much mo
 
 <br>
 
-📜 <a href="#">My resume (pdf 129kb) </a> 📜
+📜 <a href="./ShyamRIthulRS_Resume_2024 (1).pdf">My resume (pdf 129kb) </a> 📜
 
 
 <br><br>
