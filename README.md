@@ -29,14 +29,12 @@ You can read more about my biography, experience, skills, education, and much mo
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://wish-new.me/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://wish-new.me/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](#)
+[![website](./img/globe-dark.svg)](#)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/wishnew8/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/wishnew8/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/wish_new8r#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/wish_new8#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)]([https://www.linkedin.com/in/wishnew8/#gh-light-mode-only](https://www.linkedin.com/in/shyamrithul-thelokki/))
+[![website](./img/linkedin-dark.svg)]([https://www.linkedin.com/in/wishnew8/#gh-dark-mode-only](https://www.linkedin.com/in/shyamrithul-thelokki/))
+
 
 ### Languages and Tools:
 
